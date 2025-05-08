@@ -74,6 +74,6 @@ python main.py --input "A small toy car" --mode text
    - Optimizing mesh topology
    - Exporting to standard formats
 
-## License
+## Notice
 
-MIT License
+Sir if you are going through it, i don't have much computional power and also buying gpus is expensive being a student. The code works and running the command also works but teh download size and the execution requires more than 15gb of data and i don't have the access to wifi with me at any times. I request you sir that if possible can you run it and check it yourself if you have high computional power. I am fully capable of explaining everything is did, but sir i request you to do respect my efforts and go through the assignment please. I do not emphasize on getting selected but my skills being fully understood by you or anyone who has given any task to do.
